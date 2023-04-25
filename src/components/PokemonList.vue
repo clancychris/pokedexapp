@@ -9,7 +9,6 @@
 </template>
 
 <script setup>
-// import pokemons from "/src/assets/sampledataset.json";
 import Pokemon from "./Pokemon.vue";
 import { ref, onMounted } from "vue";
 import client from "@/assets/apiclient.js";

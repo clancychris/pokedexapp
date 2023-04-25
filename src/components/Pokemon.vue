@@ -32,9 +32,6 @@ const types = ["grass", "fire", "water", "normal"];
 .water {
   @apply bg-blue-500;
 }
-.electric {
-  @apply bg-slate-300;
-}
 .normal {
   @apply bg-gray-500;
 }
